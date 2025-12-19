@@ -23,6 +23,7 @@ This application allows admins to manage blogs with full **CRUD functionality**,
 - Search blogs by title
 - Filter blogs by category
 - Pagination resets automatically on filter/search change
+![image alt](https://github.com/Roshanbi1231/Blog-Admin-Dashboard/blob/master/Screenshot%202025-12-19%20194917.png?raw=true)
 
 ###  Pagination
 - Configurable items per page (default: 5)
