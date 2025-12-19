@@ -28,6 +28,7 @@ This application allows admins to manage blogs with full **CRUD functionality**,
 - Configurable items per page (default: 5)
 - Previous / Next buttons
 - Page number navigation
+![image alt](https://raw.githubusercontent.com/Roshanbi1231/Blog-Admin-Dashboard/f9270bbfa28def67b50dedf7eb6a3f26f5c9322b/Screenshot%202025-12-19%20194703.png)
 
 ###  Persistence
 - Blogs stored in **localStorage**
